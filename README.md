@@ -1,1 +1,3 @@
-# Smart-Car-Parking-Minor-Project-
+ABSTRACT
+
+The major cities lack enough spaces in order to provide a good facility of parking, drivers find parking spaces depending upon the experience and luck. Smart Parking System (SPS) aims to mitigate the current problem of parking management using a prototype of IoT based Smart Parking System using ESP32 and ultrasonic sensor. The occupancy state of the parking space and establishing the connection to the cloud server through status of each parking space are sent using HTTP protocol providing a reliable communication link to be accessed by clients. Using the designing the vacant spaces are denoted by green and the occupied one by red on the user end. With proper scalability the system can eradicate the parking management problem altogether.
